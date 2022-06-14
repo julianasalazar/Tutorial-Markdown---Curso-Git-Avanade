@@ -144,7 +144,8 @@ Para acrescentar imagens no texto utiliza-se o símbolo ![](). Onde a exclamaç�
 
 ![Surfista Prateado](https://static.wikia.nocookie.net/liberproeliis/images/e/e5/Silver-Surfer-PNG-Download-Image.png/revision/latest/scale-to-width-down/1000?cb=20190312185245&path-prefix=pt-br)
 
+![Logo do Git](./img/git-icon.png)
+
 ![Marilyn](./img/marilyn.jpg)
 
 [Voltar ao índice](#índice)
-
